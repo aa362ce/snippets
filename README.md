@@ -5,3 +5,4 @@
 * [Git](git)
 * [Python](python)
 * [Windows](windows)
+* [Terraform](terraform)
