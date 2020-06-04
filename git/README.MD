@@ -14,3 +14,8 @@ $git pull origin master --allow-unrelated-histories
 ```
 ---
 [Cheatsheet link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Cherry pick or squash commits
+ ```bash
+ $git rebase -i HEAD~N
+ ```
